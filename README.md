@@ -7,7 +7,7 @@
 
 ### What I'm focusing on 💻📝🎨🎸
 
-Currently improving my __Computer vision, Computer graphic, Quantum computing skills: OpenCV, MySQL and etc.<br />
+Currently improving my __Computer vision, Computer graphic, Quantum computing skills: OpenCV, MySQL and etc__.<br />
 
 ### My Skills ✨
 <p align='center'>

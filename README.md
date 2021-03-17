@@ -7,7 +7,7 @@
 
 ### What I'm focusing on 💻📝🎨🎸
 
-Currently improving my __Computer vision, Computer graphic, Quantum computing, and Frontend__ skills: OpenCV, OpenGL, scikit-learn, Tensorflow, GAN💕, and JS etc.<br />
+Currently improving my __Computer vision, Computer graphic, Quantum computing skills: OpenCV, MySQL and etc.<br />
 
 ### My Skills ✨
 <p align='center'>

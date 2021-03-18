@@ -22,6 +22,4 @@ Currently improving my __Computer vision, Computer graphic, Quantum computing sk
   </a>&nbsp;&nbsp;
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaksimPrudnikau&show_icons=true&locale=en&layout=compact" alt="MaksimPrudnikau" /></p>
 
-![title](lifestyle.png)
-
 ![system schema](https://miro.medium.com/max/2625/1*sUI4nkPfH0wevBQMb29cnQ.jpeg)

@@ -33,7 +33,4 @@
 </p>
 
 ### Connect with me 🙏🏻
-<a href="https://instagram.com/deandasso">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>&nbsp;&nbsp;
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaksimPrudnikau&show_icons=true&locale=en&layout=compact" alt="MaksimPrudnikau" /></p>

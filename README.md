@@ -31,6 +31,3 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat" />
 </p>
-
-### Connect with me 🙏🏻
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaksimPrudnikau&show_icons=true&locale=en&layout=compact" alt="MaksimPrudnikau" /></p>
